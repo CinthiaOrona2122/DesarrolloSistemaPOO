@@ -1,0 +1,15 @@
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\bin\Debug\net6.0\1DEstructuraFecha.exe
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\bin\Debug\net6.0\1DEstructuraFecha.deps.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\bin\Debug\net6.0\1DEstructuraFecha.runtimeconfig.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\bin\Debug\net6.0\1DEstructuraFecha.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\bin\Debug\net6.0\1DEstructuraFecha.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\obj\Debug\net6.0\1DEstructuraFecha.csproj.AssemblyReference.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\obj\Debug\net6.0\1DEstructuraFecha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\obj\Debug\net6.0\1DEstructuraFecha.AssemblyInfoInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\obj\Debug\net6.0\1DEstructuraFecha.AssemblyInfo.cs
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\obj\Debug\net6.0\1DEstructuraFecha.csproj.CoreCompileInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\obj\Debug\net6.0\1DEstructuraFecha.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\obj\Debug\net6.0\refint\1DEstructuraFecha.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\obj\Debug\net6.0\1DEstructuraFecha.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\obj\Debug\net6.0\1DEstructuraFecha.genruntimeconfig.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1DEstructuraFecha\obj\Debug\net6.0\ref\1DEstructuraFecha.dll
