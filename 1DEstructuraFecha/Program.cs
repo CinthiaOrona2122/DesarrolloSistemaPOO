@@ -5,7 +5,6 @@
     public int anio;
 
     public Fecha(int d, int m, int a)
-    {
         Console.WriteLine("En el constructor con 3 parametros");
         dia = d;
         mes = m;

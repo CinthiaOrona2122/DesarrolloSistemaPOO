@@ -1,0 +1,15 @@
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\bin\Debug\net6.0\1D25Junio.exe
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\bin\Debug\net6.0\1D25Junio.deps.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\bin\Debug\net6.0\1D25Junio.runtimeconfig.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\bin\Debug\net6.0\1D25Junio.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\bin\Debug\net6.0\1D25Junio.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\obj\Debug\net6.0\1D25Junio.csproj.AssemblyReference.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\obj\Debug\net6.0\1D25Junio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\obj\Debug\net6.0\1D25Junio.AssemblyInfoInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\obj\Debug\net6.0\1D25Junio.AssemblyInfo.cs
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\obj\Debug\net6.0\1D25Junio.csproj.CoreCompileInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\obj\Debug\net6.0\1D25Junio.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\obj\Debug\net6.0\refint\1D25Junio.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\obj\Debug\net6.0\1D25Junio.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\obj\Debug\net6.0\1D25Junio.genruntimeconfig.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\1D25Junio\obj\Debug\net6.0\ref\1D25Junio.dll
