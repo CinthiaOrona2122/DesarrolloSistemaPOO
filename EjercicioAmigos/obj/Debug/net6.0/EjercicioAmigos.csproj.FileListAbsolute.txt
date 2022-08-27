@@ -1,0 +1,15 @@
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\obj\Debug\net6.0\EjercicioAmigos.csproj.AssemblyReference.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\obj\Debug\net6.0\EjercicioAmigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\obj\Debug\net6.0\EjercicioAmigos.AssemblyInfoInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\obj\Debug\net6.0\EjercicioAmigos.AssemblyInfo.cs
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\obj\Debug\net6.0\EjercicioAmigos.csproj.CoreCompileInputs.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\bin\Debug\net6.0\EjercicioAmigos.exe
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\bin\Debug\net6.0\EjercicioAmigos.deps.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\bin\Debug\net6.0\EjercicioAmigos.runtimeconfig.json
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\bin\Debug\net6.0\EjercicioAmigos.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\bin\Debug\net6.0\EjercicioAmigos.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\obj\Debug\net6.0\EjercicioAmigos.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\obj\Debug\net6.0\refint\EjercicioAmigos.dll
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\obj\Debug\net6.0\EjercicioAmigos.pdb
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\obj\Debug\net6.0\EjercicioAmigos.genruntimeconfig.cache
+C:\Users\CinthiaOrona\OneDrive\Escritorio\IFTS11\DesarrolloSistPOO\Estructuras\EjercicioAmigos\obj\Debug\net6.0\ref\EjercicioAmigos.dll
